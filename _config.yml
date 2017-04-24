@@ -48,7 +48,7 @@ address:
   - line: San Francisco, CA
 
 # Credits content
-credits: 'Nick Guggenbuehl & Zach Foster are serial entrepreneurs. Contact to make your big idea a reality.'
+credits: 'Nick Guggenbuehl & Zach Foster are serial entrepreneurs. Contact us to make your big idea a reality.'
 
 # Build settings
 markdown: kramdown
